@@ -1,0 +1,73 @@
+
+	body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #f7cac9;
+  font-family: 'Oxygen', sans-serif;
+}
+h1{
+	margin-top: 40px;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #c94c4c;
+	text-align: center;
+	font-family: font-family: 'Cinzel', serif;
+	 text-shadow: 1px 1px 1px #222;
+}
+#header-nav {
+  background-color:  #96897f;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 { 
+ font-family: 'Train One', cursive;
+  color:  #f1e3dd;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: -10px;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list {
+	background-color: #bbab9b;
+  
+}
+#nav-list a {
+  color: #c94c4c;
+  font-weight: bold;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+#chicken {
+  box-shadow: 0 0 50px #3F0C1F;
+  border: 2px solid #3F0C1F;
+  color: blue;
+  margin:25px auto;
+  padding:30px;
+  color: black;
+  font-family: italic;
+
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #96897f;
+}
