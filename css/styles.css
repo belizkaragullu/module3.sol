@@ -71,3 +71,9 @@ h1{
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #96897f;
 }
+ #chicken> div{
+ color:black;
+font-weight: bold;
+text-align: center;
+font-size: 1.5em;
+margin-bottom: 10px;}
